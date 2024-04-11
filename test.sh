@@ -1,1 +1,2 @@
-curl successful!
+#!/bin/bash
+echo "curl successful!"
